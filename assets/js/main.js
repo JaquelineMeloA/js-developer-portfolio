@@ -48,16 +48,24 @@ function updatePortfolio(profileData) {
         `
     }).join('')
 }
+function updateLanguages(profileData) {
+    const languages = document.getElementById('profile.languages')
+    languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
+}
+
+
 function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience')
+   
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
         return `
             <li>
                 <h3 class="title">${experience.name}</h3>
                 <p class="period">${experience.period}</p>
-                <p class="description">${experience.description}</p>
-             </li>
-        `
+            </li>
+            ${experience.description.map(description => `<li> <p class="description">${description}</p></li> `).join('')}
+           
+`   
     }).join('')
 }
 (async () => {
