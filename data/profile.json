@@ -10,31 +10,31 @@
     "hardSkills": [
       {
         "name": "C#.Net",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/cSharp.png"
+        "logo": "https://raw.githubusercontent.com/JaquelineMeloA/js-developer-portfolio/main/data/imgs/csharp.png"
       },
       {
         "name": "VsCode",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+        "logo": "https://raw.githubusercontent.com/JaquelineMeloA/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/JaquelineMeloA/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/JaquelineMeloA/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/JaquelineMeloA/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/JaquelineMeloA/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
         "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/JaquelineMeloA/js-developer-portfolio/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
