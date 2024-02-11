@@ -2,7 +2,7 @@
   "name": "Jaqueline Melo",
   "photo": "https://avatars.githubusercontent.com/u/89494904?v=4",
   
-  "job": "Tech Lead no S3 Bank",
+  "job": "Consultoria de Sistema TI- Analista de Sistemas",
   "location": "Guarujá SP",
   "phone": "(13) 991111-0806",
   "email": "jaquelinewebnet@gmail.com",
@@ -10,11 +10,11 @@
     "hardSkills": [
       {
         "name": "C#.Net",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/c#.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/cSharp.png"
       },
       {
         "name": "VsCode",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vsCode.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
         "name": "JavaScript",
