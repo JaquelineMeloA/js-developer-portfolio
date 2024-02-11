@@ -56,12 +56,11 @@ function updateProfessionalExperience(profileData) {
             <li>
                 <h3 class="title">${experience.name}</h3>
                 <p class="period">${experience.period}</p>
-                <p>${experience.description}</p>
-            </li>
+                <p class="description">${experience.description}</p>
+             </li>
         `
     }).join('')
 }
-
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
@@ -70,4 +69,5 @@ function updateProfessionalExperience(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
+   
 })()

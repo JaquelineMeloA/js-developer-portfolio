@@ -48,7 +48,7 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)"
-  ],
+   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO .NET - API e Entity Framework",
@@ -70,12 +70,24 @@
     {
       "name": "GBM TECH & Control",
       "period": "2021 - 2023",
-      "description": "<ul><li>Desenvolvimento de códigos seguindo boas práticas.Participação na migração de projeto Delphi para Api Rest C#. </li><li>Colaboração ativa com o Squad na resolução de problemas.</li><li>Condução de reuniões para levantamento de requisitos, validação, negociação de prioridades, status e validação das entregas com as áreas de negócio.</li></ul>"  
+      "description": [
+        "Desenvolvimento de códigos seguindo boas práticas.Participação na migração de projeto Delphi para Api Rest C#.",
+        "Colaboração ativa com o Squad na resolução de problemas.",
+        "Condução de reuniões para levantamento de requisitos, validação, negociação de prioridades, status e validação das entregas com as áreas de negócio."  
+      ]
     },
     {
       "name": "Santos Brasil Participações S/A",
       "period": "2003 - 2021",
-      "description": "<ul><li>Identificar e solucionar problemas técnicos complexos relacionados aos sistemas Operacionais e Faturamento e Comercial. </li><li>Realizei mapeamento eficiente de tabelas para ETL, garantindo uma integração eficaz com o banco de dados na ferramenta Qlik Sense.</li><li>Implementação de rotinas de coletor operacional, utilizando C# e WebServices nas novas unidades de negócio.</li><li>Realizei a integração dos processos criados/atualizados e desenvolvi rotinas utilizando PL/SQL.</li> <li> Ministrei treinamento para usuários, capacitando-os na utilização eficaz dos sistemas da empresa.</li><li>Análise e desenvolvimento de correções em sistemas internos.</li><li>Prestei atendimento ágil de chamados, oferecendo suporte proativo aos usuários por telefone, e-mail e por meio de ferramentas de service desk.</li></ul>"
+      "description": 
+      ["Identificar e solucionar problemas técnicos complexos relacionados aos sistemas Operacionais e Faturamento e Comercial",
+      "Realizei mapeamento eficiente de tabelas para ETL, garantindo uma integração eficaz com o banco de dados na ferramenta Qlik Sense.",
+      "Implementação de rotinas de coletor operacional, utilizando C# e WebServices nas novas unidades de negócio.",
+      "Realizei a integração dos processos criados/atualizados e desenvolvi rotinas utilizando PL/SQL."
+      "Ministrei treinamento para usuários, capacitando-os na utilização eficaz dos sistemas da empresa.",
+      "Análise e desenvolvimento de correções em sistemas internos."
+      "Prestei atendimento ágil de chamados, oferecendo suporte proativo aos usuários por telefone, e-mail e por meio de ferramentas de service desk."
+      ]     
     }
   ]
 }
